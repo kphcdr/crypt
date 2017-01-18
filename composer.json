@@ -4,7 +4,6 @@
     "type": "library",
     "keywords": ["crypt", "ppphp"],
     "license": "MIT",
-    "minimum-stability": "dev",
     "homepage": "http://kphcdr.com",
     "authors": [
         {
