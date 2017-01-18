@@ -1,5 +1,5 @@
 <?php
-
+namespace Crypt;
 class Crypt
 {
     const salt = 'ppphp';
