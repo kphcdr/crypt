@@ -1,5 +1,13 @@
 # crypt
-一个简单的对称加密算法
+##一个简单的对称加密算法
+
+### 说明
+
+特性
+
+* 支持命名空间
+* 支持单元测试 phpunit
+* 支持自定义salt
 
 你可以用来加密以下信息
 
@@ -13,6 +21,9 @@
 使用方法
 
 	<?php
+	//更换加密salt
+	\Crypt\Crypt::setSalt('salt);
+	
 	//加密
 	$encode = \Crypt\Crypt::encrypt('crypt');
 	
