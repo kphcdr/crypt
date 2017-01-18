@@ -3,6 +3,7 @@
     "description": "a simple encypt/decrypt class",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "1.0.0",
     "homepage": "http://kphcdr.com",
     "authors": [
         {
