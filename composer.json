@@ -1,0 +1,19 @@
+{
+    "name": "kphcdr/crypt",
+    "description": "a simple encypt/decrypt class",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "http://kphcdr.com",
+    "authors": [
+        {
+            "name": "kphcdr",
+            "email": "kphcdr@163.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {"Crypt\\": "src/Crypt"}
+    }
+}
