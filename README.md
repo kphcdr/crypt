@@ -1,6 +1,6 @@
 # crypt
 ##一个简单的对称加密算法
-
+[![Build Status](https://travis-ci.org/kphcdr/crypt.svg?branch=master)](https://travis-ci.org/kphcdr/crypt)
 
 ###特性
 
