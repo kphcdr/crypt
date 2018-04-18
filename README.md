@@ -1,8 +1,8 @@
 # crypt
-##一个简单的对称加密算法
+## 一个简单的对称混淆算法
 [![Build Status](https://travis-ci.org/kphcdr/crypt.svg?branch=master)](https://travis-ci.org/kphcdr/crypt)
 
-###特性
+### 特性
 
 * 支持命名空间
 * 支持单元测试 phpunit
@@ -17,7 +17,7 @@
 不要用来加密用户密码，因为可以被破解哦！
 
 
-###使用方法
+### 使用方法
 
 
 	<?php
